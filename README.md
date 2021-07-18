@@ -30,9 +30,13 @@ JWT-авторизация
 
 API
 Доступные пользователи (логин, пароль):
+
 admin@gmail.com, 12345, "role": "ADMIN"
+
 qwerty@gmail.com, 22222, "role": "ADMIN"
+
 12345@gmail.com, 55555, "role": "ADMIN"
+
 
 Описание защиты JWT
 Защита заключается в добавлении пользовательского контекста в JWT и Cookie.
